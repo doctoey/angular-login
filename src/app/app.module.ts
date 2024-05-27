@@ -10,8 +10,6 @@ import { LoginComponent } from './login/login.component';
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
   bootstrap: [AppComponent],
-  exports: [
-    LoginComponent
-  ]
+  exports: [LoginComponent],
 })
 export class AppModule {}
