@@ -10,7 +10,7 @@
     "e2e": "ng e2e",
     "prettier": "prettier {pages}/**/*.{css,scss,js,jsx,ts,tsx}",
     "format:fix": "yarn pretty",
-    "pretty": "prettier --write \"**/*.html\" \"**/*.scss\" \"**/*.ts\""
+    "pretty": "prettier --write \"**/*.html\" \"**/*.ts\""
   },
   "private": true,
   "dependencies": {
